@@ -1,0 +1,3 @@
+server:
+  post: 9000
+  foo: foo version 2020
